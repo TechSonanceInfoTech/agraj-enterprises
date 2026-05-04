@@ -1,0 +1,68 @@
+[
+  {
+    "id": "proj-001",
+    "title": "Industrial Storage Tank Restoration",
+    "category": "Tanks",
+    "location": "Bhavnagar, Gujarat",
+    "client": "Nirma Pvt. Ltd.",
+    "description": "Complete rust removal, surface preparation, and epoxy coating of large industrial storage tanks.",
+    "featured": true,
+    "beforeImage": "/assets/images/projects/tank-before.png",
+    "afterImage": "/assets/images/projects/tank-after.png"
+  },
+  {
+    "id": "proj-002",
+    "title": "Factory Structural Steel Painting",
+    "category": "Structural",
+    "location": "Bhavnagar, Gujarat",
+    "client": "Balarka Fabricon Pvt. Ltd.",
+    "description": "Full structural painting of factory steel framework including corrosion-resistant primer and polyurethane topcoat.",
+    "featured": true,
+    "beforeImage": "/assets/images/projects/structural-before.png",
+    "afterImage": "/assets/images/projects/structural-after.png"
+  },
+  {
+    "id": "proj-003",
+    "title": "Process Plant Corrosion Protection",
+    "category": "Coating",
+    "location": "Madhu Silica Pvt. Ltd. Site",
+    "client": "Balarka Fabricon Pvt. Ltd.",
+    "description": "Heavy-duty corrosion protection coating for process plant pipelines and equipment in a demanding chemical environment.",
+    "featured": true,
+    "beforeImage": "/assets/images/projects/process-before.png",
+    "afterImage": "/assets/images/projects/process-after.png"
+  },
+  {
+    "id": "proj-004",
+    "title": "Warehouse Roof & Wall Painting",
+    "category": "Structural",
+    "location": "Gujarat",
+    "client": "Confidential",
+    "description": "Surface preparation and alkyd paint application on warehouse roof sheets and walls.",
+    "featured": false,
+    "beforeImage": "/assets/images/projects/warehouse-before.png",
+    "afterImage": "/assets/images/projects/warehouse-after.png"
+  },
+  {
+    "id": "proj-005",
+    "title": "PPA Plant Equipment Coating",
+    "category": "Coating",
+    "location": "Gujarat",
+    "client": "Confidential",
+    "description": "Specialized chemical-resistant coating for PPA plant equipment exposed to aggressive chemicals.",
+    "featured": false,
+    "beforeImage": "/assets/images/projects/equipment-before.png",
+    "afterImage": "/assets/images/projects/equipment-after.png"
+  },
+  {
+    "id": "proj-006",
+    "title": "Steel Structure Sand Blasting",
+    "category": "Surface Prep",
+    "location": "Gujarat",
+    "client": "Confidential",
+    "description": "Complete sand blasting and surface preparation of a heavy steel structure prior to anti-corrosion coating.",
+    "featured": false,
+    "beforeImage": "/assets/images/projects/sandblasting-before.png",
+    "afterImage": "/assets/images/projects/sandblasting-after.png"
+  }
+]

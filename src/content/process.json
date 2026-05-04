@@ -1,0 +1,26 @@
+[
+  {
+    "step": 1,
+    "icon": "fa-solid fa-magnifying-glass",
+    "title": "Site Inspection",
+    "description": "We visit the site, assess the structure condition, identify corrosion levels, and recommend the optimal coating system."
+  },
+  {
+    "step": 2,
+    "icon": "fa-solid fa-broom",
+    "title": "Surface Preparation",
+    "description": "All surfaces are cleaned, degreased, mechanically ground, and sand blasted to the required surface profile before any coating is applied."
+  },
+  {
+    "step": 3,
+    "icon": "fa-solid fa-paint-roller",
+    "title": "Coating Application",
+    "description": "The approved coating system is applied in the correct sequence — primer, mid-coat, and topcoat — with DFT checks at every stage."
+  },
+  {
+    "step": 4,
+    "icon": "fa-solid fa-circle-check",
+    "title": "Quality Check & Handover",
+    "description": "Final inspection of film thickness, coverage, and finish quality. We only hand over when every square meter meets our quality standard."
+  }
+]

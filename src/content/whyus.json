@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fa-solid fa-star",
+    "title": "Quality Painting",
+    "description": "Precision painting with professional-grade materials and techniques for results that look great and last longer."
+  },
+  {
+    "icon": "fa-solid fa-shield-halved",
+    "title": "Stronger Protection",
+    "description": "Advanced multi-layer coating systems that create an impenetrable barrier against corrosion, chemicals, and weathering."
+  },
+  {
+    "icon": "fa-solid fa-clock",
+    "title": "Longer Asset Life",
+    "description": "Our durable coating solutions significantly extend the service life of your structures, reducing maintenance costs over time."
+  },
+  {
+    "icon": "fa-solid fa-helmet-safety",
+    "title": "Safety First",
+    "description": "Strict safety standards on every site. Full PPE compliance, safety belts at height, and zero tolerance for unsafe practices."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "epoxy",
+    "name": "Epoxy Coating",
+    "icon": "fa-solid fa-flask",
+    "description": "Two-part epoxy systems offering outstanding adhesion, chemical resistance, and hardness. Ideal for substrates exposed to chemicals, moisture, and mechanical wear.",
+    "properties": ["Excellent chemical resistance", "High hardness & abrasion resistance", "Strong adhesion to steel", "Suitable for immersion service"],
+    "applications": ["Chemical plants", "Storage tanks", "Pipelines", "Factory floors"]
+  },
+  {
+    "id": "polyurethane",
+    "name": "Polyurethane (PU) Coating",
+    "icon": "fa-solid fa-droplet",
+    "description": "Flexible, UV-resistant topcoat with an excellent gloss finish. Used as a topcoat over epoxy systems for outdoor structural and architectural applications.",
+    "properties": ["UV resistant — no chalking", "Excellent gloss retention", "Flexible & impact resistant", "Weather & water resistant"],
+    "applications": ["Structural steel", "Warehouses", "Exterior surfaces", "Process plant equipment"]
+  },
+  {
+    "id": "alkyd",
+    "name": "Alkyd Coating",
+    "icon": "fa-solid fa-wind",
+    "description": "Oil-modified resin coating suitable for mild to moderate environments. Cost-effective for general industrial and maintenance painting.",
+    "properties": ["Good weathering resistance", "Easy application", "Good gloss & colour retention", "Cost-effective for large areas"],
+    "applications": ["Warehouses", "Factory roofs", "General structural steel", "Maintenance painting"]
+  },
+  {
+    "id": "zinc",
+    "name": "Zinc Rich Primer",
+    "icon": "fa-solid fa-shield-halved",
+    "description": "Cathodic protection primer containing high levels of zinc dust. Provides sacrificial protection to steel — the gold standard first coat for corrosion prevention.",
+    "properties": ["Sacrificial cathodic protection", "Excellent rust prevention", "Compatible with epoxy topcoats", "Long service life"],
+    "applications": ["All steel structures", "Offshore", "Chemical environments", "Heavy industrial"]
+  }
+]

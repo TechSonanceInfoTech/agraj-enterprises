@@ -1,0 +1,22 @@
+[
+  {
+    "id": "nirma",
+    "name": "Nirma Pvt. Ltd.",
+    "siteAddress": "Bhavnagar, Gujarat",
+    "logo": "/assets/images/clients/nirma-logo.png",
+    "testimonial": "Agraj Enterprise delivered exceptional quality work on our industrial tank restoration project. Their attention to safety and finish quality was outstanding.",
+    "rating": 5,
+    "personName": "Plant Manager",
+    "designation": "Nirma Pvt. Ltd."
+  },
+  {
+    "id": "balarka",
+    "name": "Balarka Fabricon Pvt. Ltd.",
+    "siteAddress": "Madhu Silica Pvt. Ltd. Site, Gujarat",
+    "logo": "/assets/images/clients/balarka-logo.png",
+    "testimonial": "Highly professional team with great discipline on site. They completed the structural painting well within schedule and with zero safety incidents.",
+    "rating": 5,
+    "personName": "Project Coordinator",
+    "designation": "Balarka Fabricon Pvt. Ltd."
+  }
+]

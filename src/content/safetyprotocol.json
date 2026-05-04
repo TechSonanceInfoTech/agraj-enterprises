@@ -1,0 +1,8 @@
+[
+  { "step": 1, "icon": "fa-solid fa-clipboard-list", "title": "Risk Assessment", "description": "A thorough site risk assessment is completed before any work begins." },
+  { "step": 2, "icon": "fa-solid fa-hard-hat", "title": "PPE Inspection", "description": "All PPE is inspected and verified fit-for-purpose before workers enter the site." },
+  { "step": 3, "icon": "fa-solid fa-people-group", "title": "Safety Briefing", "description": "Team safety briefing covering hazards, emergency exits, and safe work procedures." },
+  { "step": 4, "icon": "fa-solid fa-ruler", "title": "Access Setup", "description": "Scaffolding, ladders, and access equipment are inspected and certified safe." },
+  { "step": 5, "icon": "fa-solid fa-paint-roller", "title": "Safe Work Execution", "description": "All painting and coating work is carried out following safe work method statements." },
+  { "step": 6, "icon": "fa-solid fa-circle-check", "title": "Site Clearance", "description": "Site is cleaned, all materials stored safely, and a final safety check is completed." }
+]

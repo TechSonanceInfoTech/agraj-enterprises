@@ -1,0 +1,8 @@
+[
+  { "id": "factories", "icon": "fa-solid fa-industry", "name": "Factories" },
+  { "id": "warehouses", "icon": "fa-solid fa-warehouse", "name": "Warehouses" },
+  { "id": "process-plants", "icon": "fa-solid fa-gear", "name": "Process Plants" },
+  { "id": "ppa-plants", "icon": "fa-solid fa-flask", "name": "PPA Plants" },
+  { "id": "caustic-plants", "icon": "fa-solid fa-vial", "name": "Caustic Soda Plants" },
+  { "id": "heavy-industry", "icon": "fa-solid fa-truck-monster", "name": "Heavy Industrial" }
+]

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /assets/js/
+Disallow: /node_modules/
+
+Sitemap: https://www.agrajenterprise.com/sitemap.xml
+
+Host: https://www.agrajenterprise.com

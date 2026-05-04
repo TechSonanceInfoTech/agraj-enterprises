@@ -1,0 +1,37 @@
+[
+  {
+    "id": "helmet",
+    "icon": "fa-solid fa-helmet-safety",
+    "name": "Safety Helmet",
+    "purpose": "Protection against falling objects and head impact on industrial sites.",
+    "standard": "IS 2925 / EN 397"
+  },
+  {
+    "id": "belt",
+    "icon": "fa-solid fa-person-falling-burst",
+    "name": "Safety Belt",
+    "purpose": "Full-body harness used during work at height to prevent fall injuries.",
+    "standard": "IS 3521 / EN 361"
+  },
+  {
+    "id": "goggles",
+    "icon": "fa-solid fa-glasses",
+    "name": "Safety Goggles",
+    "purpose": "Eye protection from chemical splashes, dust, and sand blasting particles.",
+    "standard": "IS 5983 / EN 166"
+  },
+  {
+    "id": "shoes",
+    "icon": "fa-solid fa-shoe-prints",
+    "name": "Safety Shoes",
+    "purpose": "Steel-toe footwear to protect feet from heavy objects and chemical spills.",
+    "standard": "IS 15298 / EN ISO 20345"
+  },
+  {
+    "id": "gloves",
+    "icon": "fa-solid fa-hand",
+    "name": "Safety Gloves",
+    "purpose": "Chemical-resistant gloves for hand protection during coating and surface treatment.",
+    "standard": "IS 6994 / EN 374"
+  }
+]

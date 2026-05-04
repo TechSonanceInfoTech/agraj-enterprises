@@ -1,0 +1,53 @@
+[
+  {
+    "id": "surface-preparation",
+    "icon": "fa-solid fa-broom",
+    "title": "Surface Preparation",
+    "shortDesc": "Cleaning, grinding & sand blasting for a perfect base.",
+    "fullDesc": "Thorough surface preparation is the foundation of any long-lasting coating. We use industrial degreasing, mechanical grinding, and high-pressure sand blasting to ensure the substrate is completely clean, dry, and profiled for maximum coating adhesion.",
+    "steps": ["Degreasing & cleaning", "Mechanical grinding", "Sand blasting", "Surface inspection & approval"],
+    "industries": ["Factories", "Warehouses", "Process Plants", "PPA Plants"],
+    "image": "/assets/images/services/surface-prep.png"
+  },
+  {
+    "id": "rust-removal",
+    "icon": "fa-solid fa-screwdriver-wrench",
+    "title": "Rust Removal & Treatment",
+    "shortDesc": "Effective rust removal & surface treatment.",
+    "fullDesc": "We apply proven rust removal techniques including mechanical wire brushing, chemical treatment, and complete rust conversion to eliminate corrosion at the source before any coating is applied.",
+    "steps": ["Rust assessment", "Mechanical wire brushing", "Chemical rust converter", "Neutralization & priming"],
+    "industries": ["Factories", "Heavy Industrial", "Tanks & Vessels", "Caustic Soda Plants"],
+    "image": "/assets/images/services/rust-removal.png"
+  },
+  {
+    "id": "corrosion-protection",
+    "icon": "fa-solid fa-shield-halved",
+    "title": "Corrosion Protection",
+    "shortDesc": "High-performance protective coatings against corrosion.",
+    "fullDesc": "Our corrosion protection systems use multi-layer coating strategies including zinc primers, epoxy mid-coats, and polyurethane topcoats to create a barrier that withstands the harshest industrial chemical environments.",
+    "steps": ["Zinc primer application", "Epoxy mid-coat", "Polyurethane topcoat", "Film thickness verification"],
+    "industries": ["PPA Plants", "Caustic Soda Plants", "Chemical Plants", "Offshore Structures"],
+    "image": "/assets/images/services/corrosion-protection.png"
+  },
+  {
+    "id": "industrial-coating",
+    "icon": "fa-solid fa-paint-roller",
+    "title": "Industrial Coating",
+    "shortDesc": "Epoxy, PU, Alkyd, Zinc & more coating systems.",
+    "fullDesc": "We apply a full range of industrial coating systems tailored to the specific environment and substrate. From epoxy and polyurethane to alkyd and zinc-rich primers, we select the right system for maximum performance and longevity.",
+    "steps": ["Coating system selection", "Primer application", "Mid-coat application", "Topcoat & finishing"],
+    "coatingTypes": ["Epoxy", "Polyurethane (PU)", "Alkyd", "Zinc Rich Primer", "Chlorinated Rubber"],
+    "industries": ["All Industrial Sectors"],
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "structural-painting",
+    "icon": "fa-solid fa-building",
+    "title": "Structural Painting",
+    "shortDesc": "For factories, plants, warehouses & heavy structures.",
+    "fullDesc": "From large factory sheds and warehouse roofs to complex process plant structures and heavy steel frameworks, our team is equipped to handle structural painting projects of any scale with precision and safety compliance.",
+    "steps": ["Scaffolding & access setup", "Surface prep", "Priming", "Finish coat application", "Final inspection"],
+    "industries": ["Factories", "Warehouses", "Process Plants", "Heavy Industrial", "Storage Tanks"],
+    "image": "https://images.unsplash.com/photo-1513828583688-c52646db42da?q=80&w=2070&auto=format&fit=crop"
+  }
+]
